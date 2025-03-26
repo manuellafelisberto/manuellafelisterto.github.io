@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(230, 170, 204);
+}
+.img1 img{
+    padding: 20px;
+}
+.img2 img{
+    padding: 10px;
+    border-radius: 30px ;
+
+}
+.img2 {
+    align-items: center;
+     background-color:rgb(240, 114, 212) ;
+     border-radius: 25px;
+    
+}
